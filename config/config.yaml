@@ -26,3 +26,6 @@ data_transformation_config:
 model_trainer_config:
   trained_model_dir: trained_model
   trained_model_name: model.pkl
+
+
+
